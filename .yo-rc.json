@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "code-book",
+    "libraryId": "fb54e2a8-cdbc-4561-9052-4454d16279a3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Code_Book",
+    "solutionShortDescription": "Code_Book description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
